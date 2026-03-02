@@ -1,3 +1,8 @@
+import { defineConfig } from 'vite'
+
 export default defineConfig({
-    base: "/<REPO>/"
+  base: '/<REPO>/',
+  build: {
+    outDir: 'dist',
+  },
 })
