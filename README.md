@@ -1,0 +1,1 @@
+This work is based on "Tiny Isometric Room" (https://sketchfab.com/3d-models/tiny-isometric-room-6db0b351424141099e30834c6115f40a) by 3DECraft (https://sketchfab.com/3DECraft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
